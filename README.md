@@ -1,2 +1,2 @@
 # Comics
-Marvel Comics Heros app (Javascript, HTML, CSS)
+Marvel Comics Heros app 
